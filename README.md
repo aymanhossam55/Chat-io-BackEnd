@@ -91,7 +91,7 @@ CLIENT_URL=http://127.0.0.1:5173
 
 ## Frontend Repository
 
-To fully run the application, you need to set up the frontend. You can find the frontend repository and instructions [here](https://github.com/mostafa2113/reactjs-chat.io.git).
+To fully run the application, you need to set up the frontend. You can find the frontend repository and instructions [here](https://github.com/aymanhossam55/Chat-io-FrontEnd).
 
 ## Contributing
 
